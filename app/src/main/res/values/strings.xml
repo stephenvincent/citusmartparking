@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CIT-U Smart Parking</string>
+
+    <string name="system_name">CIT-U PARKING SYSTEM</string>
+    <string name="btn_enter_app">ENTER APP</string>
+    <string name="smart_parking_logo">Smart Parking Logo</string>
+
+    <string name="st">ST Building</string>
+    <string name="academic">Academic Building</string>
+    <string name="canteen">Canteen</string>
+    <string name="covered_court">Covered Court</string>
+    <string name="backgate">Backgate</string>
+</resources>
